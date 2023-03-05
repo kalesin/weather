@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --main: #3da3dc;
+  --sec: #ff0000;
+}
